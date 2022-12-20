@@ -1,4 +1,4 @@
-# whisper
+# Whisper Fine-Tuning for Taiwanese Mandarin
 This is the repository for our CS 333 final project.
 
 Here are the models we used in each experiment:
